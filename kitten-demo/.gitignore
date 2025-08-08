@@ -10,5 +10,5 @@ wheels/
 .venv
 
 # model
-model/
-!model/README.md
+model/*.onnx
+model/*.npz
